@@ -3,14 +3,21 @@
 ## Overview and Origin
 
 * Name of company
-
+Unlearn.Ai
 * When was the company incorporated?
-
+Unlearn.Ai was founded in 2017 by former Pfizer principal scientist Charles Fischer.
 * Who are the founders of the company?
 
 * How did the idea for the company (or project) come about?
-
+Unlearn.Ai began as a company dedicated to minimizing the use of patients in placebo trial studies in medicine by using artificial digital twin studies using generative machine learning modelling to faster forecast the viabillity of drugs developed by biopharmaceutical companies.
 * How is the company funded? How much funding have they received?
+As a smaller, more recent organizaiton, Unlearn.AI is currently a Series C funded company that has received $50 million in funding via Coinbase.
+
+*Sources
+[https://www.unlearn.ai/ai-research](url)
+[https://www.linkedin.com/company/unlearn-ai/](url)
+[https://www.crunchbase.com/organization/unlearn-ai](url)
+[https://www.linkedin.com/in/charleskfisher/](url)
 
 ## Business Activities
 
