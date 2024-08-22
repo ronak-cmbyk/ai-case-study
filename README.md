@@ -15,8 +15,11 @@ As a smaller, more recent organizaiton, Unlearn.AI is currently a Series C funde
 
 *Sources
 [https://www.unlearn.ai/ai-research](url)
+
 [https://www.linkedin.com/company/unlearn-ai/](url)
+
 [https://www.crunchbase.com/organization/unlearn-ai](url)
+
 [https://www.linkedin.com/in/charleskfisher/](url)
 
 ## Business Activities
