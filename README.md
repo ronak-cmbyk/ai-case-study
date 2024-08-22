@@ -2,8 +2,8 @@
 
 ## Overview and Origin
 
-* Name of company
-Unlearn.Ai
+Name of company
+*Unlearn.Ai
 * When was the company incorporated?
 Unlearn.Ai was founded in 2017 by former Pfizer principal scientist Charles Fischer.
 * Who are the founders of the company?
@@ -88,8 +88,14 @@ Sources
 
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
 
+For Unlearn.Ai, I would suggest to incorporate usage of other data sets similar to their concept of "digital twins" to create more generators to aid in treatment for more personalized therapies.
+
 * Why do you think that offering this product or service would benefit the company?
 
+This would benefit the company by enabling a larger client base by utilizing their knowledge of AI to create more personalized treatments, which is a current area of interest within the biotechnology and pharmaceuticals industry.
+
 * What technologies would this additional product or service utilize?
+Additional technologies for this additional product would utilize two-dimensional motion-sensing scan technology to identify specific disorders with physical symptoms.
 
 * Why are these technologies appropriate for your solution?
+This addition would utilize the generative machine learning models that Unlearn.Ai that has already created. It has the potential to be immplemented in gene therapy to combat specific muscular and psychtriatic disorders.
